@@ -58,7 +58,6 @@ Before you begin, ensure you have the following:
 - [AWS CodeBuild](https://docs.aws.amazon.com/codebuild/)
 - [Docker Documentation](https://docs.docker.com/)
     
-
 ---
 
 This README provides a structured overview of the project, outlines the necessary components, prerequisites, and steps to Build and push Docker Image to Dockerhub with AWS CodeBuild.
